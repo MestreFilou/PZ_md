@@ -1,0 +1,6 @@
+name=Underground Base Excavation
+id=UndergroundBaseExcavation
+description=Allows players to dig out underground rooms and bases with wooden shoring mechanics.
+poster=poster.png
+pzversion=42
+versionMin=42.0.0
